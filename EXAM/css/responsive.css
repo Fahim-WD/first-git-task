@@ -1,0 +1,262 @@
+@media(max-width:575px){
+    .navbar-collapse{
+        background-color: #e98484;
+    }
+    .navbar-toggler {
+        border: 2px solid #fff;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .banner_text h2 {
+        font-size: 28px;
+    }
+    .banner_text h1 {
+        font-size: 53px;
+        margin-bottom: 56px;
+        line-height: 60px;
+    }
+    .about_head h4 {
+        font-size: 18px;
+    }
+    .about_head h3 {
+        font-size: 18px;
+    }
+    .about_p {
+        font-size: 14px;
+    }
+    .rate_item p {
+        font-size: 14px;
+    }
+    .service_head h3 {
+        font-size: 18px;
+    }
+    .service_head h4 {
+        font-size: 18px;
+    }
+    .ser_text h4 {
+        font-size: 18px;
+    }
+    .comment_icon {
+        text-align: center;
+        margin-left: 0px;
+    }
+    .comment_text {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .comment_text i {
+        padding-right: 0px;
+    }
+    .comment_text h5::after {
+        left: 35%;
+    }
+    .team_item {
+        margin-bottom: 20px;
+    }
+    .team_text h5 {
+        font-size: 16px;
+    }
+    .team_head h3 {
+        font-size: 18px;
+    }
+    .team_head h4{
+        font-size: 18px;
+    }
+    .work_head h4{
+        font-size: 18px;
+    }
+    .work_head h3{
+        font-size: 18px;
+    }
+    .left_icon ul li {
+        padding: 0px 5px;
+    }
+    .left_icon ul li i {
+        font-size: 18px;
+    }
+    .left_input input {
+        width: 125px;
+    }
+    .left_input a {
+        padding: 11px 15px;
+    }
+    .blog_head{
+        margin-top: 30px;
+    }
+    .blog_text {
+        left: 135px;
+    }
+    .blog_text h6 {
+        font-size: 16px;
+    }
+    .blog_text i{
+        font-size: 14px;
+    }
+    .instagram {
+        padding-top: 40px;
+    }
+}
+@media(min-width:576px) and (max-width:767px){
+    .navbar-collapse{
+        background-color: #e98484;
+    }
+    .navbar-toggler {
+        border: 2px solid #fff;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent !important;
+    }
+    .banner_text h2 {
+        font-size: 28px;
+    }
+    .banner_text h1 {
+        font-size: 60px;
+        margin-bottom: 56px;
+        line-height: 60px;
+    }
+    .about_head h4 {
+        font-size: 18px;
+    }
+    .about_head h3 {
+        font-size: 18px;
+    }
+    .about_p {
+        font-size: 14px;
+    }
+    .service_head h3 {
+        font-size: 18px;
+    }
+    .service_head h4 {
+        font-size: 18px;
+    }
+    .ser_text h4 {
+        font-size: 18px;
+    }
+    .comment_icon {
+        text-align: center;
+        margin-left: 0px;
+    }
+    .comment_text {
+        text-align: center;
+        padding-top: 15px;
+    }
+    .comment_text i {
+        padding-right: 0px;
+    }
+    .comment_text h5::after {
+        left: 35%;
+    }
+    .team_item {
+        margin-bottom: 20px;
+    }
+    .team_head h3 {
+        font-size: 18px;
+    }
+    .team_head h4{
+        font-size: 18px;
+    }
+    .work_head h4{
+        font-size: 18px;
+    }
+    .work_head h3{
+        font-size: 18px;
+    }
+    .left_icon ul li {
+        padding: 0px 2px;
+    }
+    .left_icon ul li i {
+        font-size: 16px;
+    }
+    .left_input input {
+        width: 125px;
+    }
+    .left_input a {
+        padding: 11px 15px;
+    }
+    .blog_text {
+        left: 135px;
+    }
+    .blog_text h6 {
+        font-size: 14px;
+    }
+    .blog_text i{
+        font-size: 12px;
+    }
+    .instagram {
+        padding-top: 40px;
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .banner_text h2 {
+        font-size: 36px;
+    }
+    .banner_text h1 {
+        font-size: 76px;
+        line-height: 83px;
+        margin-bottom: 52px;
+    }
+    .comment_icon {
+        margin-left: 10px;
+    }
+    .comment_text i {
+        padding-right: 10px;
+
+    }
+    .team_item {
+        margin-bottom: 20px;
+    }
+    .work_over_text h4{
+      font-size: 18px;
+    }
+    .work_over_text p{
+        font-size: 14px;
+    }
+    .work_over_text2 h4{
+      font-size: 18px;
+    }
+    .work_over_text2 p{
+        font-size: 14px;
+    }
+    .left_icon ul li {
+        padding: 0px 5px;
+    }
+    .left_icon ul li i {
+        font-size: 16px;
+    }
+    .left_input input {
+        width: 125px;
+    }
+    .left_input a {
+        padding: 11px 15px;
+    }
+    .blog_text {
+        left: 135px;
+    }
+    .blog_text h6 {
+        font-size: 16px;
+    }
+    .blog_text i{
+        font-size: 14px;
+    }
+    .instagram {
+        padding-top: 40px;
+    }
+    
+    
+}
+@media(min-width:992px) and (max-width:1199px){
+
+}
+@media(min-width:1200px) and (max-width:1399px){
+
+}
+@media(max-width:1400px){
+    
+}
